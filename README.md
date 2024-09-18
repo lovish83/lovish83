@@ -37,3 +37,5 @@ hobbies: ["Gaming", "Cinema", "CTF"]
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lovish83&repo=CyberSecurity&theme=tokyonight" />
   </a>
 </p>
+
+![snake animation](https://github.com/lovish83/lovish83/blob/output/github-contribution-grid-snake2.svg)
