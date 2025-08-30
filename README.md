@@ -16,7 +16,7 @@ name: Lovish
 located_in: New Delhi, India
 education:
   [
-    "Currently Pursuing B.Tech CSE ( Cybersecurity )",
+    " B.Tech. in CSE (Cybersecurity) ",
   ]
 
 fields_of_interests:
@@ -28,7 +28,7 @@ fields_of_interests:
     "Network Security",
   ]
 
-hobbies: ["Gaming", "Cinema", "CTF"]
+hobbies: ["Gaming", "Reading", "CTF"]
 ```
 
 ## 📌 Pinned
